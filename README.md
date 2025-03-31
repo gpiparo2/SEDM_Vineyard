@@ -1,4 +1,4 @@
-# 🍇 SEDM-Vineyard
+# 🍇 SEDM_Vineyard
 
 This module automates the classification of vineyards using Sentinel-2 imagery and polygon labels.
 
@@ -28,7 +28,7 @@ Then use the vineyard dashboard or CLI pipeline to build your classification dat
 ## 🧱 Module Structure
 
 ```
-SEDM-Vineyard/
+SEDM_Vineyard/
 ├── __init__.py                     # Module initializer
 ├── README.md                       # Module documentation
 ├── vineyard_dataset_builder.py    # Preprocessing and TFRecord export from vineyard polygons
